@@ -1,0 +1,2 @@
+Vestuario|1
+Vendas|1
